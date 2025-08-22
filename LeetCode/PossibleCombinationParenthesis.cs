@@ -1,4 +1,4 @@
-namespace Arrays;
+namespace LeetCode;
 
 public class PossibleCombinationParenthesis
 {

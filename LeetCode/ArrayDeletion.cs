@@ -1,4 +1,4 @@
-namespace LeetCodeProblems;
+namespace LeetCode;
 
 public class ArrayDeletion
 {
